@@ -5,14 +5,14 @@
 <br>
 YouTube Video 
 <br> 
-<a href="" target="_blank"><img alt="Ezatpanah KoinDI-Youtube" src="koin-youtube.jpg" width="60%"></a>
+<a href="https://www.youtube.com/watch?v=VownL4Z_B3U" target="_blank"><img alt="Ezatpanah KoinDI-Youtube" src="koin-youtube.jpg" width="60%"></a>
 
 
 <br> 
 <br> 
 Article on Medium:
 <br>
-coming soon
+[coming soon](https://medium.com/@ezatpanah/koin-di-simplifying-dependency-injection-in-android-projects-a295c961f0ad)
 <br>
 <br>
 
