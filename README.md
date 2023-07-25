@@ -12,7 +12,7 @@ YouTube Video
 <br> 
 Article on Medium:
 <br>
-[coming soon](https://medium.com/@ezatpanah/koin-di-simplifying-dependency-injection-in-android-projects-a295c961f0ad)
+https://medium.com/@ezatpanah/koin-di-simplifying-dependency-injection-in-android-projects-a295c961f0ad
 <br>
 <br>
 
